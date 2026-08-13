@@ -24,34 +24,6 @@ box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
 background: linear-gradient(135deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
 }
 
-.phone-screen {
-background: #ffffff;
-border-radius: 32px;
-overflow: hidden;
-display: flex;
-flex-direction: column;
-}
-
-/* Cabeçalho do Post */
-.post-header {
-display: flex;
-align-items: center;
-justify-content: space-between;
-padding: 12px 16px;
-}
-
-.user-info {
-display: flex;
-align-items: center;
-gap: 10px;
-}
-
-.avatar-small {
-width: 36px;
-height: 36px;
-border-radius: 50%;
-object-fit: cover;
-}
 
 .username {
 font-weight: 600;
