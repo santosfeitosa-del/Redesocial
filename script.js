@@ -17,3 +17,12 @@ let cont = 0;
 if(textNode){
     textNode.textContent = '0';
 }
+
+
+
+//coração
+function applyLikedStyle (){
+likeSvg.style.fill = "#ef4444";
+likeSvg.style.stroke = "#ef4444";
+likeSvg.style.color = "#ef4444";
+}
